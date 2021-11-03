@@ -3,4 +3,5 @@
 * changed through local machine
 * changed through GUI
 * resolved merge conflict
+* added 2FA
 
